@@ -1,0 +1,4 @@
+2023-10-26T12:16:01+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\ccs\wp-content\plugins\elementor\core\base\base-object.php on line 39
+
+2023-10-26T12:16:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\ccs\wp-content\plugins\elementor\core\files\css\base.php on line 408
+

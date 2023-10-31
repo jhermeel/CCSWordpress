@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Demo page were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/CCS
+Data file = C:\wamp64\www\ccs/wp-content/uploads/2023/10/demo-content-import-file_2023-10-30__14-46-11.xml
+Widget file = C:\wamp64\www\ccs/wp-content/uploads/2023/10/demo-widgets-import-file_2023-10-30__14-46-11.json
+Customizer file = C:\wamp64\www\ccs/wp-content/uploads/2023/10/demo-customizer-import-file_2023-10-30__14-46-11.dat
+Redux files:
+not defined!
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Tronix Post With Thumbnail - Recent Post - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer One : 
+
+Tronix About Widget - About Us - Widget already exists
+
+Footer Two : 
+
+Tronix : Navigation Menu - Link - Widget already exists
+
+Footer Three : 
+
+Tronix : Navigation Menu - Explore - Widget already exists
+
+Footer Four : 
+
+Tronix Post With Thumbnail - Recent Posts - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
